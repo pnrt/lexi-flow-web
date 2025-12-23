@@ -1,26 +1,27 @@
 # Lexi Flow - Master Vocabulary Offline
 
 <div align="center">
-    <img src="logo.png" alt="Lexi Flow Logo" width="120" height="120" style="border-radius:24px;">
-    <br>
-    <br>
-    
-    <a href="https://kotlinlang.org/">
-        <img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
-    </a>
-    <a href="https://developer.android.com/jetpack/compose">
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-M3-4285F4?logo=android&logoColor=white" alt="Jetpack Compose">
-    </a>
-    <a href="https://developer.android.com/training/data-storage/room">
-        <img src="https://img.shields.io/badge/Room%20Database-Local-green?logo=sqlite&logoColor=white" alt="Room DB">
-    </a>
-    
-    <br><br>
-    <h3>
-      <a href="YOUR_PLAY_STORE_LINK_HERE">Download on Google Play</a> | 
-      <a href="#features">Features</a> | 
-      <a href="#tech-stack">Tech Stack</a>
-    </h3>
+<img src="logo.png" alt="Lexi Flow Logo" width="120" height="120" style="border-radius:24px;">
+<br>
+<br>
+
+<a href="https://kotlinlang.org/">
+<img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
+</a>
+<a href="https://developer.android.com/jetpack/compose">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-M3-4285F4?logo=android&logoColor=white" alt="Jetpack Compose">
+</a>
+<a href="https://developer.android.com/training/data-storage/room">
+<img src="https://img.shields.io/badge/Room%20Database-Local-green?logo=sqlite&logoColor=white" alt="Room DB">
+</a>
+
+<br><br>
+
+<h3>
+<a href="https://play.google.com/store/apps/details?id=com.pankajkumarrout.lexiflow">Download on Google Play</a> | 
+<a href="#features">Features</a> | 
+<a href="#tech-stack">Tech Stack</a>
+</h3>
 </div>
 
 ---
